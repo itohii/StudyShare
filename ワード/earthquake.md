@@ -1,0 +1,2 @@
+# earthquake
+　地震

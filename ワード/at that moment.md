@@ -1,0 +1,2 @@
+# at that moment
+　そのとき

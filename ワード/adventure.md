@@ -1,0 +1,2 @@
+# adventure
+　冒険

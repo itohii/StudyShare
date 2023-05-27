@@ -1,0 +1,2 @@
+# information
+　[情報]
