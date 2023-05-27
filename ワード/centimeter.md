@@ -1,2 +1,0 @@
-# centimeter
-　センチメートル

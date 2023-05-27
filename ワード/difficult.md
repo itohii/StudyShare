@@ -1,2 +1,0 @@
-# difficult
-　難しい

@@ -1,2 +1,0 @@
-# festival
-　祭り

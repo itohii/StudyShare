@@ -1,2 +1,0 @@
-# grandfather
- 祖父

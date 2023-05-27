@@ -1,2 +1,0 @@
-# LSDB
-　Link State Database

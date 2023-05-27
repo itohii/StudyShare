@@ -1,2 +1,0 @@
-# relationship
-　関係

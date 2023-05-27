@@ -1,2 +1,0 @@
-# tomorrow
-　明日

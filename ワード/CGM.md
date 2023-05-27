@@ -1,2 +1,0 @@
-# CGM
-　Consumer Generated Media

@@ -1,2 +1,0 @@
-# SFTP
-　SSH FTP

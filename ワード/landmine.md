@@ -1,2 +1,0 @@
-# landmine
-　地雷

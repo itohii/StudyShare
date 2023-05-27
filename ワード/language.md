@@ -1,2 +1,0 @@
-# language
-　言語

@@ -1,2 +1,0 @@
-# SNI
-　Server Name Indication

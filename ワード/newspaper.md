@@ -1,2 +1,0 @@
-# newspaper
-　新聞

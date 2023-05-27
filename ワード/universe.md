@@ -1,2 +1,0 @@
-# universe
-　宇宙

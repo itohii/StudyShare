@@ -1,2 +1,0 @@
-# building
-　建物

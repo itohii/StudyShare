@@ -1,2 +1,0 @@
-# PAK
-　Product Authorization Key

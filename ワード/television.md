@@ -1,2 +1,0 @@
-# television
-　テレビ

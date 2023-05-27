@@ -1,2 +1,0 @@
-# after a while
-　しばらくして

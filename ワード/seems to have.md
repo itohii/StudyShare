@@ -1,2 +1,0 @@
-# seems to have
- だったようだ

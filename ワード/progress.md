@@ -1,2 +1,0 @@
-# progress
-　進歩

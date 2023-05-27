@@ -1,2 +1,0 @@
-# homework
-　宿題

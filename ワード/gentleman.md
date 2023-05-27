@@ -1,2 +1,0 @@
-# gentleman
-　紳士

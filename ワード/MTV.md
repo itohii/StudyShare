@@ -1,2 +1,0 @@
-# MTV
- Music Television。アメリカのケーブルテレビチャンネル

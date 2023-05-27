@@ -1,2 +1,0 @@
-# UDI
-　Universal Device Identifier

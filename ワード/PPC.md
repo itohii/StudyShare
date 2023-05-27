@@ -1,2 +1,0 @@
-# PPC
- Pay Par Click

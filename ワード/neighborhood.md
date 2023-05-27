@@ -1,2 +1,0 @@
-# neighborhood
-　近所

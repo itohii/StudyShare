@@ -1,2 +1,0 @@
-# POU
-　Point of use

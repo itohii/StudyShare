@@ -1,2 +1,0 @@
-# hospital
-　病院

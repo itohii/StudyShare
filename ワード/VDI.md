@@ -1,2 +1,0 @@
-# VDI
-　Virtual Desktop Infrastructure。サーバ内にクライアントごとの仮想マシンを用意して仮想デスクトップ環境を構築する技術

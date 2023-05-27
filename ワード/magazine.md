@@ -1,2 +1,0 @@
-# magazine
-　雑誌

@@ -1,2 +1,0 @@
-# knowledge
-　知識

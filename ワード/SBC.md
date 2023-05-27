@@ -1,2 +1,0 @@
-# SBC
- Sub Band Codec

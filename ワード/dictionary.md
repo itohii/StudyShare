@@ -1,2 +1,0 @@
-# dictionary
-　辞書

@@ -1,2 +1,0 @@
-# yesterday
-　昨日

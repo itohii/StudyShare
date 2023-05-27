@@ -1,2 +1,0 @@
-# persimmon
-　柿

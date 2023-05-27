@@ -1,2 +1,0 @@
-# grandmother
- 祖母

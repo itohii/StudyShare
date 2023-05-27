@@ -1,2 +1,0 @@
-# sightseeing
-　観光

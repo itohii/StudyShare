@@ -1,2 +1,0 @@
-# wheelchair
-　車いす

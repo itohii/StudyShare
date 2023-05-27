@@ -1,2 +1,0 @@
-# sentence
-　文

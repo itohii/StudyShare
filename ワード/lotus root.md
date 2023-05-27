@@ -1,2 +1,0 @@
-# lotus root
- レンコン

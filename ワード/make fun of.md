@@ -1,2 +1,0 @@
-# make fun of
-　からかう

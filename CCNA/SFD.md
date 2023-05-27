@@ -1,2 +1,0 @@
-# SFD
-　Start Frame Delimiter

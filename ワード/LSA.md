@@ -1,2 +1,0 @@
-# LSA
-　Link State Advertisement

@@ -1,2 +1,0 @@
-# shouldn't have
- べきではなかった

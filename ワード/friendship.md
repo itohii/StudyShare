@@ -1,2 +1,0 @@
-# friendship
-　友情

@@ -1,2 +1,0 @@
-# population
-　人口

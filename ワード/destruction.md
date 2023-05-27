@@ -1,2 +1,0 @@
-# destruction
-　破壊

@@ -1,2 +1,0 @@
-# umbrella
-　傘

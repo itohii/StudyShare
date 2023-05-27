@@ -1,2 +1,0 @@
-# discussion
-　議論

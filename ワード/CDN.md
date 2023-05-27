@@ -1,2 +1,0 @@
-# CDN
- Contents Delivery Network

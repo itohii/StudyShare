@@ -1,2 +1,0 @@
-# carpenter
-　大工

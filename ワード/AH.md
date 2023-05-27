@@ -1,2 +1,0 @@
-# AH
- Authentication Header

@@ -1,2 +1,0 @@
-# -gitignore の書き方。ファイル-ディレクトリの除外
-https://www-creators.com/archives/1662#_gitignore

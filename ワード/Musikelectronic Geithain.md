@@ -1,2 +1,0 @@
-# Musikelectronic Geithain
- ドイツのハンドメイドスピーカーメーカー

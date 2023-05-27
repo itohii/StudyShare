@@ -1,2 +1,0 @@
-# SACD
- Super Audio CD
