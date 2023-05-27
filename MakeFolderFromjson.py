@@ -10,10 +10,15 @@ c1 = json_load['pages'][0]
 
 # 本文データ取得
 c2 = c1["title"]
-print(c2)
+
+c3 = c1["lines"]
 
 f = open("ワード\{}.md".format(c2), mode='w',encoding = 'utf-8')
-f.write("# " + c2)
+f.write("# " + c2 + "\n")
+
+for i in c3[1:-3]:
+    f.write(i["text"] + "\n")
+
 f.close()
 
 # # タグデータ取得
