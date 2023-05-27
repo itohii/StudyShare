@@ -1,0 +1,4 @@
+# HTTPのバージョン3つ
+　HTTP/1.1
+　HTTP/2
+　HTTP/3

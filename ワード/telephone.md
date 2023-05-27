@@ -1,0 +1,2 @@
+# telephone
+　電話

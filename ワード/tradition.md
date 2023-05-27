@@ -1,0 +1,2 @@
+# tradition
+　伝統

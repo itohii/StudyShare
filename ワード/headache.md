@@ -1,0 +1,2 @@
+# headache
+　頭痛

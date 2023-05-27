@@ -1,0 +1,2 @@
+# everything
+ すべてのもの

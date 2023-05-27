@@ -1,0 +1,2 @@
+# yesterday
+　昨日

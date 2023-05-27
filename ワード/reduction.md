@@ -1,0 +1,2 @@
+# reduction
+　減少
