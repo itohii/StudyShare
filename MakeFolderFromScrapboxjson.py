@@ -27,7 +27,7 @@ for pagei in range(len(json_load['pages'])):
     try:
         tagtext = lines[-2]["text"]
     except IndexError:
-        title = re.sub(r'[\\|/|:|*|?|.|"|<|>|\|]', '-', title)
+        title = re.sub(r'[\\|/|:|*|?|"|<|>|\|]', '-', title)
         f = open(DefaultFolderName[0] + "\{}.md".format(title), mode='w',encoding = 'utf-8')
         f.write("# " + title + "\n")
 
@@ -38,7 +38,7 @@ for pagei in range(len(json_load['pages'])):
 
     if tagtext.find("#") == -1:
         punct = string.punctuation
-        title = re.sub(r'[\\|/|:|*|?|.|"|<|>|\|]', '-', title)
+        title = re.sub(r'[\\|/|:|*|?|"|<|>|\|]', '-', title)
         f = open(DefaultFolderName[0] + "\{}.md".format(title), mode='w',encoding = 'utf-8')
         f.write("# " + title + "\n")
 
@@ -59,7 +59,7 @@ for pagei in range(len(json_load['pages'])):
             if not os.path.isdir(i) :
                 os.mkdir(i)
 
-            title = re.sub(r'[\\|/|:|*|?|.|"|<|>|\|]', '-', title)
+            title = re.sub(r'[\\|/|:|*|?|"|<|>|\|]', '-', title)
             f = open(i + "\{}.md".format(title), mode='w',encoding = 'utf-8')
             f.write("# " + title + "\n")
 

@@ -1,0 +1,2 @@
+# SIMカード
+　Subscriber Identity Moduleカード
