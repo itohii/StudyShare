@@ -1,0 +1,2 @@
+# WAVE MOTION
+　SHI IS SUMMERのセカンドアルバム

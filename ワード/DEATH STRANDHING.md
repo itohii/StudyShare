@@ -1,0 +1,2 @@
+# DEATH STRANDHING
+　ゲーム作品
