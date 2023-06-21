@@ -1,2 +1,2 @@
 # ATA
-　Advanced Technology Attachment。[コンピュータ]とハードディスク間のインターフェース規格。[パラレルバス]の1つ
+　Advanced Technology Attachment。[コンピュータ]と[ハードディスク]間のインターフェース規格。[パラレルバス]の1つ

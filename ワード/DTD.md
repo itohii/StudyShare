@@ -1,2 +1,2 @@
 # DTD
-　Document Type Definition。[XML]のデータを定義するもの
+　Document Type Definition。[XML]の[データ]を定義するもの
