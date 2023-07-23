@@ -1,0 +1,2 @@
+# Confidence
+ 信頼
