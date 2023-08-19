@@ -1,0 +1,2 @@
+# Generalization
+　[汎化]

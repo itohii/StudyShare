@@ -1,2 +1,2 @@
 # ICT
-　情報通信技術
+　Information and Communication Technology。情報通信技術

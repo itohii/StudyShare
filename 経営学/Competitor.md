@@ -1,0 +1,2 @@
+# Competitor
+ 競合

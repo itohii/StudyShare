@@ -1,0 +1,2 @@
+# scarcity
+ 不足

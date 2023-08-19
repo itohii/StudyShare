@@ -1,2 +1,2 @@
 # Cross Currency Basis Swap
- 通貨スワップ
+ [通貨スワップ]

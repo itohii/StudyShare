@@ -1,0 +1,2 @@
+# abundance
+ 豊穣

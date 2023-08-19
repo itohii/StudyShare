@@ -1,0 +1,2 @@
+# Competition
+　競争
