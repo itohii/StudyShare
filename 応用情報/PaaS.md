@@ -1,3 +1,3 @@
 # PaaS
- Platform as a Service
+ Platform as a Service。アプリケーションに必要となる機能や開発・実行環境を提供するもの
  [クラウドコンピューティング]で、[OS]や[ミドルウェア]などの基盤を提供すること

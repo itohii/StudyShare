@@ -1,0 +1,2 @@
+# WinActor
+　NTTデータの[RPA]ツール

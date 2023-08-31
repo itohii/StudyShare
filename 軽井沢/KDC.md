@@ -1,0 +1,2 @@
+# KDC
+　Karuizawa Defender Club

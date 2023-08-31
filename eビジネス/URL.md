@@ -1,3 +1,3 @@
 # URL
- ドメイン名
- Uniform Resource Locators。[インターネット]上のアドレス
+ Uniform Resource Locators。[インターネット]上の[アドレス]
+ [ドメイン名]

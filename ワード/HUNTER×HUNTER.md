@@ -1,0 +1,2 @@
+# HUNTER×HUNTER
+ 漫画作品

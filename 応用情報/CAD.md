@@ -1,2 +1,2 @@
 # CAD
-　Computer Aided Planning。コンピュータ支援による設計
+　Computer Aided Planning。コンピュータ支援による[設計]
