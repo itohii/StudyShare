@@ -1,3 +1,3 @@
 # expression
-　式
+　[式]
 　表現

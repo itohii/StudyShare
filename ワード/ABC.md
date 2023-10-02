@@ -1,2 +1,3 @@
 # ABC
-　Activity-based Costing。活動ベースのコスト算出
+　Abstract Base Class。抽象ベースクラス
+　Activity-based Costing。活動ベースの[コスト]算出

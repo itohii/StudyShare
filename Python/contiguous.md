@@ -1,0 +1,2 @@
+# contiguous
+　連続

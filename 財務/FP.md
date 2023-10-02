@@ -1,3 +1,3 @@
 # FP
-　Financial Programming。ファイナンシャル・プログラミング
 　ファイナンシャルプランナー
+　Financial Programming。ファイナンシャル・プログラミング

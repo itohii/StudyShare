@@ -1,0 +1,2 @@
+# sensation
+　感覚

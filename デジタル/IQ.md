@@ -1,2 +1,2 @@
 # IQ
- 知能指数
+ intelligence quotient。[知能指数]

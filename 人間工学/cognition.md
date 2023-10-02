@@ -1,0 +1,2 @@
+# cognition
+　認知

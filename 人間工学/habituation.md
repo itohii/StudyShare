@@ -1,0 +1,2 @@
+# habituation
+ 慣れ

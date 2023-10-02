@@ -1,2 +1,2 @@
 # AISCEAS
- ネットでの宣伝会議を含めた、購買行動のモデル。AISASに加えて比較(Comparison)、検討(Examination)がある
+ ネットでの宣伝会議を含めた、購買行動の[モデル]。[AISAS]に加えて比較(Comparison)、検討(Examination)がある

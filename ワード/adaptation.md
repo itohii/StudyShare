@@ -1,0 +1,2 @@
+# adaptation
+　順応
